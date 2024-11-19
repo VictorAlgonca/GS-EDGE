@@ -60,6 +60,16 @@ Este projeto utiliza um ESP32 e três potenciômetros para simular a geração d
 
 - O ESP32 calculará a energia gerada com base nos valores e enviará os resultados para o ThingSpeak a cada 15 segundos.
 
+![Sem título](https://github.com/user-attachments/assets/d8d93874-d522-4e92-827f-cfb53a732fd9)
+
+# Link Wokwi:
+
+[https://wokwi.com/projects/414553799604737025]
+
+# Link ThingSpeak:
+
+[https://thingspeak.mathworks.com/channels/2704711]
+
 # Código Fonte: 
 
 ```C++
@@ -149,3 +159,4 @@ void loop() {
   delay(15000); // Aguarda 15 segundos
 }
 ```
+
