@@ -62,6 +62,10 @@ Este projeto utiliza um ESP32 e três potenciômetros para simular a geração d
 
 ![Sem título](https://github.com/user-attachments/assets/d8d93874-d522-4e92-827f-cfb53a732fd9)
 
+# Link do Vídeo: 
+
+[https://youtu.be/lC9iRcTy3Pw]
+
 # Link Wokwi:
 
 [https://wokwi.com/projects/414553799604737025]
